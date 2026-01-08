@@ -54,15 +54,15 @@ Face-Recognition-Attendance-System/
 ## How to Run the Project
 Step 1: Capture Face Images
 Run python capture_faces.py
--Enter the person's name
--Press C to capture images
--Capture 20–30 images per person
+- Enter the person's name
+- Press C to capture images
+- Capture 20–30 images per person
 
 Step 2: Train the Model
--python train_model.py
+- python train_model.py
 
 Step 3: Run Attendance System
--python attendance_system.py
+- python attendance_system.py
 
 ## Attendance Format
 Attendance is stored in a CSV file in the following format:
@@ -72,12 +72,12 @@ Nikhil,10:58:12
 Rajesh,11:02:45
 
 ## Use Cases
--Classroom attendance management
--Office and workplace attendance
--Secure identity verification
--Smart campus applications
+- Classroom attendance management
+- Office and workplace attendance
+- Secure identity verification
+- Smart campus applications
 
 ## Privacy and Ethics
--Face images are stored locally and not uploaded to GitHub
--No cloud services or external servers are used
--This project is intended for educational and academic purposes only
+- Face images are stored locally and not uploaded to GitHub
+- No cloud services or external servers are used
+- This project is intended for educational and academic purposes only
